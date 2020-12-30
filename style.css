@@ -1,0 +1,23 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+}
+body{
+    background-image: url("image/tetris-tutorial.jpg");
+}
+
+.design{
+    border: 1px solid #00FFFF  !important;
+}
+label{
+    color: #00FFFF;
+}
+/* .a{
+    width: 200px;
+    height: 200px;
+    box-shadow: 0 1px 25px 0 #15f4ee inset, 0 5px 25px 0 #15f4ee,
+              0 5px 50px 0 #15f4ee inset, 0 5px 50px 0 #15f4ee;
+    background-color: #15f4ee;
+} */
